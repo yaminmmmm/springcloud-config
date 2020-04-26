@@ -1,5 +1,5 @@
 config: 
-  info: hello world! version = 1.0
+  info: hello world! version = 2.0
 
 server: 
   info: 服务器
