@@ -3,3 +3,6 @@ config:
 
 server: 
   info: 服务器
+
+redis: 
+  host: 6379
