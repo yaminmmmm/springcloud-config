@@ -1,5 +1,5 @@
 config: 
-  info: hello world! version = 2.0
+  info: tedst change version=3.0
 
 server: 
   info: 服务器
